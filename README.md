@@ -13,10 +13,13 @@ I'm Zakaria, a passionate full stack developer with experience in both frontend 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zakariabouacherah&theme=calm&hide_border=true&include_all_commits=false&count_private=true" alt="Zakaria's github stats" />
 </p>
-![](https://github-readme-streak-stats.herokuapp.com/?user=zakariabouacherah&theme=calm&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zakariabouacherah&theme=calm&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zakariabouacherah&theme=calm&hide_border=true" alt="Zakaria's github stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakariabouacherah&theme=calm&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Zakaria's github stats" />
+</p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=zakariabouacherah&theme=calm&no-frame=true&no-bg=false&margin-w=4)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
