@@ -1,5 +1,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=45&pause=200&color=ffb331&vCenter=true&random=false&width=435&lines=👋🏽+Hi+Mates+.+.+.)](https://git.io/typing-svg)
+![banner](https://github.com/user-attachments/assets/7fca2cb8-c9c3-43b2-b9c2-2ef0dc0361e5)
 
 I'm Zakaria, a passionate full stack developer with experience in both frontend and backend technologies. I thrive on creating clean, efficient solutions and am always exploring new technologies to enhance my skills.
 
