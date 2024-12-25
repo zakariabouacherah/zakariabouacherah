@@ -2,17 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Anca+Coder&size=43&pause=200&color=FFB331&vCenter=true&width=435&lines=👋🏽+Hi+Mates+.+.+.)](https://git.io/typing-svg)
 
----
-
+---                                                                                                                                                  
                                                                                                                                                                            
- _|_|_|_|_|            _|                            _|                _|_|_|      _|_|    _|    _|    _|_|      _|_|_|  _|    _|  _|_|_|_|  _|_|_|      _|_|    _|    _|  
-       _|      _|_|_|  _|  _|      _|_|_|  _|  _|_|        _|_|_|      _|    _|  _|    _|  _|    _|  _|    _|  _|        _|    _|  _|        _|    _|  _|    _|  _|    _|  
-     _|      _|    _|  _|_|      _|    _|  _|_|      _|  _|    _|      _|_|_|    _|    _|  _|    _|  _|_|_|_|  _|        _|_|_|_|  _|_|_|    _|_|_|    _|_|_|_|  _|_|_|_|  
-   _|        _|    _|  _|  _|    _|    _|  _|        _|  _|    _|      _|    _|  _|    _|  _|    _|  _|    _|  _|        _|    _|  _|        _|    _|  _|    _|  _|    _|  
- _|_|_|_|_|    _|_|_|  _|    _|    _|_|_|  _|        _|    _|_|_|      _|_|_|      _|_|      _|_|    _|    _|    _|_|_|  _|    _|  _|_|_|_|  _|    _|  _|    _|  _|    _|  
-                                                                                                                                                                           
-                                                                                                                                                                           
-
 I'm Zakaria, a passionate full stack developer specializing in building scalable, secure, and user-friendly web applications.
 
 ![git-banner](https://github.com/user-attachments/assets/92fadc7d-c687-465b-ac12-a4aacfc2d46b)
