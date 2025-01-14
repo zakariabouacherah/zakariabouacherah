@@ -15,10 +15,10 @@ I'm Zakaria, a passionate full stack developer specializing in building scalable
 # 📊 GitHub Stats:
 
 <a href="https://github.com/zakariabouacherah">
-  <img src="https://github-readme-stats.vercel.app/api?username=zakariabouacherah&theme=calm&hide_border=true&include_all_commits=false&count_private=true" alt="Zakaria's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zakariabouacherah&theme=calm&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="Zakaria's github stats" />
 </a>
 <a href="https://github.com/zakariabouacherah">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakariabouacherah&theme=calm&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Zakaria's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakariabouacherah&theme=calm&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Zakaria's github stats" />
 </a>
 
 ## 🏆 GitHub Trophies
