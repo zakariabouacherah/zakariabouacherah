@@ -1,6 +1,6 @@
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anca+Coder&size=43&pause=200&color=FFB331&vCenter=true&width=435&lines=👋🏽+Hi+Mates+.+.+.)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Anca+Coder&size=43&pause=200&color=FFB331&vCenter=true&width=435&lines=👋🏽+Hi+Mates+.+.+.)](https://git.io/typing-svg)
 ---                                                                                                                                                                                                                                                                                            
 I'm Zakaria, a passionate full stack developer specializing in building scalable, secure, and user-friendly web applications.
 
@@ -21,4 +21,6 @@ I'm Zakaria, a passionate full stack developer specializing in building scalable
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=zakariabouacherah&theme=calm&no-frame=true&no-bg=false&margin-w=4)
+
+-->
 
