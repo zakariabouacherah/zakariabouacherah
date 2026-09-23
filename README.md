@@ -1,7 +1,12 @@
+<!--
 ---
 
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Anca+Coder&size=33&pause=200&color=FFB331&vCenter=true&width=435&lines=👋🏽+Hello+World+.+.+.)](https://git.io/typing-svg)
----                                                                                                                                                                                                                                                                                            
+---   
+-->
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> Hello World
+
+
 I'm Zakaria, a passionate full stack developer specializing in building scalable, secure, and user-friendly web applications.
 
 ![git-banner](https://github.com/user-attachments/assets/92fadc7d-c687-465b-ac12-a4aacfc2d46b)
